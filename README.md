@@ -4,7 +4,7 @@ git demo repository
 
 ## basic git command
 
--git init (initialize an empty git respositoy)
+-git init  (initialize an empty git respositoy)
 -git status (show the working tree status)
 -git add (add file contents to the index)
 -git rm (Remove files from the index)
